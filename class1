@@ -1,3 +1,4 @@
 int a, b, c
 readr a, b
 sum=a+b
+mu1=a*b
